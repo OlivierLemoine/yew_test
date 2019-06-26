@@ -1,0 +1,9 @@
+[package]
+name = "rust-wa"
+version = "0.1.0"
+authors = ["OlivierLemoine <olivier@le-moine.fr>"]
+edition = "2018"
+
+[dependencies]
+yew = "0.6.0"
+stdweb = "0.4.17"

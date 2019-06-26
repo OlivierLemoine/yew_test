@@ -1,0 +1,5 @@
+{
+    "rust-client.channel": "stable",
+    "rust-client.rustupPath": "/home/O.LEMOINE-LOCAL/.cargo/bin/rustup",
+    "rust.target": "wasm32-unknown-unknown"
+}
